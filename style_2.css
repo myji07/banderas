@@ -1,0 +1,21 @@
+.subject {
+  width: 300px;
+  padding: 50px;
+  box-sizing: border-box;
+  background: #f7b617;
+}
+
+.verb {
+  width: 300px;
+  padding: 50px;
+  text: white;
+  box-sizing: border-box;
+  background: #262626;
+}
+
+.pronoun {
+  width: 300px;
+  padding: 50px;
+  box-sizing: border-box;
+  background: #f7b617;
+}

@@ -1,0 +1,18 @@
+.subject {
+  box-sizing: border-box;
+  text-align: initial;
+  background-color: #f7b617;
+  padding: 70px;
+}
+
+.verb {
+  box-sizing: content-box;
+  background-color: #262626;
+  padding: 70px;
+}
+
+.pronoun {
+  box-sizing: border-box;
+  background-color: #f7b617;
+  padding: 70px
+}
